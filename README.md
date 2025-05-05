@@ -18,3 +18,5 @@
 **注意**
 
 代码使用TensorFlow 1.15，而TensorFlow 1.15最后兼容的是 Python 3.7，Python 3.8 以上不支持，我是在pycharm中创建了虚拟环境并运行。
+
+网址：https://github.com/huagongdiyishenqing/Curve-simulation.git
